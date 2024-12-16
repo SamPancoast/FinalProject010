@@ -1,6 +1,6 @@
 # FinalProject010
 
-1. The PGH Realtors
+1. The PGH Realtors, Final Group 49
 2. AJ Mallory ajm578@pitt.edu
     Jake Taylor jlt153@pitt.edu
    Sam Pancoast sep181@pitt.edu
