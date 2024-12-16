@@ -10,6 +10,8 @@ Data set links:
 Non-traffic citations
 https://data.wprdc.org/dataset/non-traffic-citations/resource/6b11e87d-1216-463d-bbd3-37460e539d86
 
+Population data set
+https://data.wprdc.org/dataset/2020-census-redistricting-data-extracts/resource/a8414ed5-c50f-417e-bb67-82b734660da6
 
 Rent data set
 https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2014-miscellaneous-data/resource/fe1d1e75-975e-42c0-b32b-64260a9a4a9a
